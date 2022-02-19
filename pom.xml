@@ -13,7 +13,7 @@
 	<properties>
 		<resource.delimiter>@</resource.delimiter>
 		<jib-maven-plugin.version>3.0.0</jib-maven-plugin.version>
-		<springdoc.version>1.5.9</springdoc.version>
+		<springdoc.version>1.6.5</springdoc.version>
 	</properties>
 	<dependencies>
 		<!-- springdoc ui -->
